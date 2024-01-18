@@ -12,7 +12,7 @@ Acc No: 2
 1
 First Name: Madhavi
 Second Name: Desam
-Gender: M
+Gender: F
 Balance: 600000
 Acc No: 3
 
