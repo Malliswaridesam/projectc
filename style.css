@@ -1,0 +1,65 @@
+h1{
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   background-color: #dc143c;
+   color: rgb(0, 127, 139);
+   padding: 10px;
+   margin: 30px;
+   border-radius: 4px;
+   text-align: center;
+}
+h2{
+   font-style: normal;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   background-color: chartreuse;
+   color: crimson;
+   padding: 10px;
+   margin: 10px;
+   border-radius: 4px;
+   text-align: center;
+}
+
+body{
+   box-sizing: border-box;
+   border: rgb(41, 195, 139);
+   font-family: Verdana, Geneva, Tahoma, sansrif;
+   font-size: large;
+   border-radius: 4px;
+}
+.container{
+background-color: rgb(250, 247, 215);
+color: black;
+padding: 20px 40px;
+margin: 60px;
+border-radius: 4px;
+}
+input[type="text"],
+input[type="radio"],
+input[type="nationality"],
+input[type="number"],
+input[type="email"],
+input[type="address"],
+input[type="datetime"],
+input[type="checkbox"],
+textarea,select,fieldset{
+   width: 100%;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   font-size:large;
+   background-color: white;
+   color: solid black;
+   padding: 10px;
+   margin: 10px;
+   border-radius: 4px;
+}
+   input[type="submit"]{
+      width: 100%;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     font-size: large;
+     background-color: rgb(0, 255, 187);
+     color: white;
+     padding: 10px;
+     margin: 10px;
+     text-decoration: none;
+     border-radius: 4px;
+
+   }
+   
