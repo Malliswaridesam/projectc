@@ -1,0 +1,23 @@
+First Name: Manasa
+Second Name: Muthumula
+Gender: F
+Balance: 6000
+Acc No: 1
+1
+First Name: Malliswari
+Second Name: Desam
+Gender: F
+Balance: 70000
+Acc No: 2
+1
+First Name: Madhavi
+Second Name: Desam
+Gender: N/A
+Balance: 600000
+Acc No: 3
+
+First Name: Viswanadh
+Second Name: Desam
+Gender: M
+Balance: 500
+Acc No: 2
